@@ -115,7 +115,7 @@
 
 ## 📁 GitHub Repository
 
-🔗 [https://github.com/KWIZERA-FRED/SwiftStore-no-code](https://github.com/KWIZERA-FRED/SwiftStore-no-code)
+🔗 [https://github.com/judymbabazi-54/SwiftBuy-no-code-project.git](https://github.com/judymbabazi-54/SwiftBuy-no-code-project.git)
 
 ---
 
