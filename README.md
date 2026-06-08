@@ -66,7 +66,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](images/LANDING.JPG.jpeg)
+![Homepage](images/HOME.JPG.jpeg)
 *Hero section featuring the SwiftBuy tagline and a promotional flash-sale banner.*
 
 ### 🛍️ Products Page
