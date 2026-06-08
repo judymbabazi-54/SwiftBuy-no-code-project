@@ -66,23 +66,23 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](images/LANDING.JPG.JPG)
+![Homepage](images/LANDING.JPG.jpeg)
 *Hero section featuring the SwiftBuy tagline and a promotional flash-sale banner.*
 
 ### 🛍️ Products Page
-![Products Page](images/PRODUCTS.JPG.JPG)
+![Products Page](images/PRODUCTS.JPG.jpeg)
 *All Products listing — 6 items with images and RWF pricing.*
 
 ### 👥 About Page
-![About Page](images/ABOUT.JPG.JPG)
+![About Page](images/ABOUT.JPG.jpeg)
 *Meet the Team — Art Director, Tech Lead, and Product Manager profiles.*
 
 ### 📞 Contact Page
-![Contact Page](images/CONTACT.JPG.JPG)
+![Contact Page](images/CONTACT.JPG.jpeg)
 *Contact form with First Name, Last Name, Email, Message fields, and an embedded Google Map.*
 
 ### 📞 Cart Page
-![Cart Page](images/CART.JPG.JPG)
+![Cart Page](images/CART.JPG.jpeg)
 *A cart form for customer to add their products for checkout*
 
 ---
