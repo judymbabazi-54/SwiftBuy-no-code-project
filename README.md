@@ -10,7 +10,7 @@
 |---|---|
 | **Names** |Girimbabiza Judith|
 | **Registration number** |24180/2024|
-| **Role** |Tech Lead|
+| **Role** |Product Manager|
 | **Course** | E-Commerce And Web Application — EWA408510 |
 | **Institution** | University of Lay Adventists of Kigali (UNILAK) |
 | **Lecturer** | Mr.Eric Maniraguha |
@@ -66,23 +66,23 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](images/LANDING.JPG)
+![Homepage](images/LANDING.JPG.JPG)
 *Hero section featuring the SwiftBuy tagline and a promotional flash-sale banner.*
 
 ### 🛍️ Products Page
-![Products Page](images/PRODUCTS.JPG)
+![Products Page](images/PRODUCTS.JPG.JPG)
 *All Products listing — 6 items with images and RWF pricing.*
 
 ### 👥 About Page
-![About Page](images/ABOUT.JPG)
+![About Page](images/ABOUT.JPG.JPG)
 *Meet the Team — Art Director, Tech Lead, and Product Manager profiles.*
 
 ### 📞 Contact Page
-![Contact Page](images/CONTACT.JPG)
+![Contact Page](images/CONTACT.JPG.JPG)
 *Contact form with First Name, Last Name, Email, Message fields, and an embedded Google Map.*
 
 ### 📞 Cart Page
-![Cart Page](images/CART.JPG)
+![Cart Page](images/CART.JPG.JPG)
 *A cart form for customer to add their products for checkout*
 
 ---
